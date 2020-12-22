@@ -1,0 +1,7 @@
+## Interface: (Your interface number)
+## Title: Ape Enclosure
+## Author: Johan Andersson
+## Version: 0.1
+
+ApeEnclosure.lua
+ApeEnclosure.xml

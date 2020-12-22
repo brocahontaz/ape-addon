@@ -1,0 +1,8 @@
+<Script file="ApeEnclosure.lua"/> 
+<Frame name="ApeEnclosure"> 
+    <Scripts> 
+        <OnLoad> 
+            ApeEnclosure_OnLoad();
+        </OnLoad>
+    </Scripts>
+</Frame>
